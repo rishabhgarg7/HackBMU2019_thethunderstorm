@@ -4,8 +4,7 @@ pillow
 numpy
 pandas
 numpy 
-opencv
-OS 
+opencv-contrib-python
 scipy
 requests
 urllib
