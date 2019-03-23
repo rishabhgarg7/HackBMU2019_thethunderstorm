@@ -13,10 +13,10 @@
  <h3> The content of input data may be of following types</h3></br>
     1. Confidential Videos which can't be given to third parties.</br>
     2. Entertainment content </br>
-    3. Surveillancing data
+    3. Surveillancing data </br>
     4. Educational and training data </br>
     5. Interactive data with daily activities</br>
-   <br></br><br></br>
+   <br></br>
   <h3> We look forward to use this tool in following fields:</h3></br>
     1. Human Robot Interaction</br>
     2. Description of videos to the blinds</br>
