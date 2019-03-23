@@ -5,9 +5,9 @@
  <h3> 
     Following benefits are expected to be achieved with this model:</h3></br>
     1. Real-time Processing which is not achievable with APIs.</br>
-    2. Content processing on local system isolating from the risks of communication failure increasing the reliability.</br>
+    2. Content processing on local system isolated from the risks of network failure increasing the reliability.</br>
     3. No network dependency.</br>
-    4. No cloud services required.
+    4. No cloud services required.</br>
     5. Isolated and standalone environment.
  </br> 
  <h3> The content of input data may be of following types</h3></br>
