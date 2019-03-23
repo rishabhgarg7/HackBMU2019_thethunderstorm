@@ -27,4 +27,4 @@
       2. Recurrent neural network </br>
       3. Image and Video processing </br>
    <h3>Workflow:</h3>
-   ![Alt text](https://github.com/HackBMU/HackBMU2019_thethunderstorm/blob/master/workflow.png)
+   ![workflow](https://github.com/HackBMU/HackBMU2019_thethunderstorm/blob/master/workflow.png)
