@@ -3,3 +3,7 @@ tensorflow
 pillow
 numpy
 pandas
+numpy 
+opencv
+OS 
+scipy
