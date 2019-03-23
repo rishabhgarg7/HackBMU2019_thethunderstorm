@@ -1,5 +1,5 @@
 # Vision<br>
-  _The basic idea is to develop the tool that enables to get detailed audio and text description of a video content and is not prone to networking casulaties and is independently functioning standalone system._ 
+  _The basic idea is to develop the tool that enables to get detailed audio and text description of a real time surrounding and is not prone to networking casulaties and is independently functioning standalone system._ 
     </br></br>
  
  <h3> 
