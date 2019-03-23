@@ -1,5 +1,5 @@
 # HackBMU2019_thethunderstorm<br>
-<h5>The basic idea is to develop the tool that enables to get detailed audio and text desciption of a video content using machine learning and compuer vision concepts. </h5>
+<h5>The basic idea is to develop the tool that enables to get detailed audio and text desciption of a video content which is not feasible to be analyzed otherwise using available tools. </h5>
     </br></br>
  
  <h3> 
@@ -7,6 +7,8 @@
     1. Real-time Processing which is not achievable with APIs.</br>
     2. Content processing on local system isolating from the risks of communication failure increasing the reliability.</br>
     3. No network dependency.</br>
+    4. No cloud services required.
+    5. Isolated and standalone environment.
  </br> 
  <h3> The content of input data may be of following types</h3></br>
   1. Confidential Videos which can't be given to third parties.</br>
