@@ -1,5 +1,5 @@
 # HackBMU2019_thethunderstorm<br>
-<h5>The basic idea is to develop the tool that enables to get detailed audio and text desciption of a video content which is not feasible to be analyzed otherwise using available tools. </h5>
+<h5>The basic idea is to develop the tool that enables to get detailed audio and text description of a video content and is not prone to networking errors and is independently functioning standalone system. </h5>
     </br></br>
  
  <h3> 
