@@ -28,8 +28,9 @@
       2. Recurrent neural network </br>
       3. Image and Video processing </br>
       
-![workflow](workflow.png)
-Format: ![workflow image](https://drive.google.com/open?id=1_2dVKD3k6SOhlnTuQjuQGf1fZ_0gMpRP)
+
+![workflow](Format: ![workflow image](https://lh3.googleusercontent.com/-Xy4d2MsgqPE/XJcIHRPUbGI/AAAAAAAABrU/2H2-HOg7dwQui5E37HsyJ2xwLbSAvO13ACK8BGAs/s0/2019-03-23.png)
+)
 
       
 
