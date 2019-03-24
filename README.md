@@ -29,7 +29,7 @@
       3. Image and Video processing </br>
       
 ![workflow](workflow.png)
-Format: ![workflow image](https://drive.google.com/open?id=1uqc_gkZGrbi_n1NFeqs6q2pFa9p9fsOl)
+Format: ![workflow image](https://drive.google.com/open?id=1_2dVKD3k6SOhlnTuQjuQGf1fZ_0gMpRP)
 
       
 
