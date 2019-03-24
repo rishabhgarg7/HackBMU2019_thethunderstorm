@@ -32,6 +32,13 @@
 ![workflow image](https://lh3.googleusercontent.com/-gla9v-bpB9U/XJcHmrOaudI/AAAAAAAABrM/CWIPqhujUH0WgA-KD3utLSt6dql6tGE5QCK8BGAs/s0/2019-03-23.png)
 )
 
+
+<br></br>
+<h3> References</h3>
+  1. https://cs.stanford.edu/people/karpathy/cvpr2015.pdf  </br>
+  2.http://cs231n.stanford.edu/reports/2017/pdfs/31.pdf </br>
+  3. https://arxiv.org/abs/1803.07950   </br>
+  4. Deep leanring book by Francois Chollet </br>
       
 
 
