@@ -25,4 +25,10 @@
       1. Convolutional neural network</br>
       2. Recurrent neural network </br>
       3. Image and Video processing </br>
-      ![workflow](/HackBMU/HackBMU2019_thethunderstorm/blob/master/workflow.png)
+      
+![workflow](workflow.png)
+Format: ![workflow image](https://drive.google.com/open?id=1uqc_gkZGrbi_n1NFeqs6q2pFa9p9fsOl)
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text]()
