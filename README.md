@@ -19,7 +19,8 @@
     5. Interactive data with daily activities</br>
    <br></br>
   <h3> We look forward to use this tool in following fields:</h3></br>
-    1. Human Robot Interaction</br>
+    1. Human Robot
+    ![workflow](img/workflow.png) Interaction</br>
     2. Description of videos to the blinds</br>
     3. Video Indexing</br>
     4. Information Retrival</br>
