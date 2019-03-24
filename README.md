@@ -16,6 +16,10 @@
     4. Educational and training data </br>
     5. Interactive data with daily activities</br>
  <br></br>
+ <br></br>
+ ![workflow](workflow.png)
+Format: ![workflow image](https://drive.google.com/open?id=1uqc_gkZGrbi_n1NFeqs6q2pFa9p9fsOl)
+
  <h3> We look forward to use this tool in following fields:</h3></br>
     1. Human Robot Interaction</br>
     2. Description of videos to the blinds</br>
@@ -26,9 +30,5 @@
       2. Recurrent neural network </br>
       3. Image and Video processing </br>
       
-![workflow](workflow.png)
-Format: ![workflow image](https://drive.google.com/open?id=1uqc_gkZGrbi_n1NFeqs6q2pFa9p9fsOl)
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text]()
