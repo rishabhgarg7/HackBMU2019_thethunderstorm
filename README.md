@@ -20,7 +20,7 @@
 
  <h3> We look forward to use this tool in following fields:</h3></br>
     1. Human Robot Interaction</br>
-    2. Description of videos to the blinds</br>
+    2. Description of real time surrounding and navigation to the blinds</br>
     3. Video Indexing</br>
     4. Information Retrival</br>
  <h3>Used approaches and Technology</h3>
