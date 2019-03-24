@@ -28,4 +28,4 @@
       2. Recurrent neural network </br>
       3. Image and Video processing </br>
    <h3>Workflow:</h3>
-   ![workflow](workflow.png)
+   ![workflow](img/workflow.png)
