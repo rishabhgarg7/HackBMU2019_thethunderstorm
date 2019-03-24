@@ -9,7 +9,6 @@
     4. No cloud services required.</br>
     5. Isolated and standalone environment.
 </br>
-![workflow](img/workflow.png) 
 <h3> The content of input data may be of following types</h3></br>
     1. Confidential Videos which can't be given to third parties.</br>
     2. Entertainment content </br>
@@ -26,3 +25,4 @@
       1. Convolutional neural network</br>
       2. Recurrent neural network </br>
       3. Image and Video processing </br>
+![workflow](img/workflow.png) 
