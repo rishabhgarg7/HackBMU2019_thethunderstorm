@@ -29,7 +29,7 @@
       3. Image and Video processing </br>
       
 
-![workflow](Format: ![workflow image](https://lh3.googleusercontent.com/-Xy4d2MsgqPE/XJcIHRPUbGI/AAAAAAAABrU/2H2-HOg7dwQui5E37HsyJ2xwLbSAvO13ACK8BGAs/s0/2019-03-23.png)
+![workflow image](https://lh3.googleusercontent.com/-gla9v-bpB9U/XJcHmrOaudI/AAAAAAAABrM/CWIPqhujUH0WgA-KD3utLSt6dql6tGE5QCK8BGAs/s0/2019-03-23.png)
 )
 
       
