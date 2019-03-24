@@ -25,7 +25,9 @@ while(True):
     cv2.imshow('Android',img)
     file_name_path='C:/Users/HP/Desktop/data/frame'+str(currentFrame)+'.jpg'
     cv2.imwrite(file_name_path, img)
+    currentFrame+=1
+
     cv2.destroyAllWindows()
     if cv2.waitKey(0)==13 or currentFrame==50:
         break
-    currentFrame+=1
+   
